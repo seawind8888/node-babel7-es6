@@ -1,0 +1,27 @@
+{
+  "name": "babel7-es6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seawind8888/node-babel7-es6.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seawind8888/node-babel7-es6/issues"
+  },
+  "homepage": "https://github.com/seawind8888/node-babel7-es6#readme",
+  "devDependencies": {
+    "@babel/core": "^7.5.4",
+    "@babel/plugin-proposal-class-properties": "^7.5.0",
+    "@babel/plugin-transform-async-to-generator": "^7.5.0",
+    "@babel/plugin-transform-modules-commonjs": "^7.5.0",
+    "@babel/register": "^7.4.4"
+  }
+}
